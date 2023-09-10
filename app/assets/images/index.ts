@@ -1,0 +1,15 @@
+export default {
+  appLogo: require('./appLogo.png'),
+  infoIcon: require('./infoIcon.png'),
+  upArrow: require('./upArrow.png'),
+  downArrow: require('./downArrow.png'),
+  menuIcon: require('./menuIcon.png'),
+  searchIcon: require('./searchIcon.png'),
+  trendingBackgroundImage: require('./trendingBackgroundImage.png'),
+  backIcon: require('./backIcon.png'),
+  playIcon: require('./playIcon.png'),
+  searchNotFoundImage: require('./noSearchFound.png'),
+  defaultImage: require('./defaultImage.jpeg'),
+  pauseIcon: require('./pauseIcon.png'),
+  closeIcon: require('./closeIcon.png'),
+};
